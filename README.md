@@ -3,7 +3,7 @@ Hi I am Vaishalli, I am a Cosmetologist, I have 10+ years experience in Beauty S
 
 Please have a Look of Services that I offer and feel free to contact me if you have any Questions.
 
-# Email: Vaishalim22@gmail.com
+## Email: Vaishalim22@gmail.com
 
 | Service Name | Price |
 | --- | ----------- |
