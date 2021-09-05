@@ -15,10 +15,9 @@ Please have a Look of Services that I offer and feel free to contact me if you h
 | Eyebrow threading | $5 |
 | Upper lip and Chin threading | $5+ |
 | Whole Face threading | $25 | 
-| Manicure | $30 |
-| Pedicure | $45 |
 | Anti aging Collagen facial with Microdermabrasion OR Anti tan facial(Skinfood) | $45 |
-| Fruit Facial | $30 |
+| Oxygen Infusion facial with LED light therapy facial | $45 |
+| Fruit Facial | $35 |
 | European Facial with Blackhead Removal and galvanic treatment (Dermalogica/Shehenaz Gold/Skin brightening Herbal) | $35 |
 | Bleach application in facial | $5 |
 | Only bleach application no facial | $12 |
