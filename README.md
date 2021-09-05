@@ -14,5 +14,5 @@ Please have a Look of Services that I offer and feel free to contact me if you h
 | Hair Spa for smooth shiny hair | $30+ |
 | Eyebrow threading | $5 |
 | Upper lip and Chin threading | $5+ |
-| Whole Face threading | $25 |
+| Whole Face threading | $25 | 
 
