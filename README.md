@@ -17,8 +17,8 @@ Please have a Look of Services that I offer and feel free to contact me if you h
 | Whole Face threading | $25 | 
 | Manicure | $30 |
 | Pedicure | $45 |
-| Anti aging Collagen facial with Microdermabrasion. OR Anti tan facial(Skinfood) | $45 |
-| Whole Face threading | $25 |
-| Whole Face threading | $25 |
-| Whole Face threading | $25 |
-| Whole Face threading | $25 |
+| Anti aging Collagen facial with Microdermabrasion OR Anti tan facial(Skinfood) | $45 |
+| Fruit Facial | $30 |
+| European Facial with Blackhead Removal and galvanic treatment (Dermalogica/Shehenaz Gold/Skin brightening Herbal) | $35 |
+| Bleach application in facial | $5 |
+| Only bleach application no facial | $12 |
