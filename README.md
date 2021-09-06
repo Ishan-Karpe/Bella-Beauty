@@ -37,4 +37,4 @@ Please have a Look of Services that I offer and feel free to contact me if you h
 | Back and Neck and Shoulder Massage | $40 |
 
 
-Thank you, 
+Thank You 
