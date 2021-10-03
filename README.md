@@ -1,9 +1,8 @@
-# Bella Beauty Salon Services
-Hi I am Vaishalli, I am a Cosmetologist, I have 10+ years experience in Beauty Salon and now I run a beauty salon from home. I Provide Hair and Skin Services to Clients. I am Open for 6 Days in a Week by appointments only except for Saturday.
+# Bella Beauty
+## Hair and Care Salon Services
+Hi I am Vaishalli, I am a CA Ceritfied Licenced Cosmetologist, I have 10+ years experience in Beauty Salon and now I run a beauty salon from home. I Provide Hair and Skin care Services to clients. I am Open for 6 Days in a Week by appointments only except for Saturday.
 
-Please have a Look of Services that I offer and feel free to contact me if you have any Questions.
-
-## Email: vaishalim22@gmail.com
+Please have a Look of Services that I offer and feel free to contact me if you have any questions.
 
 | Service Name | Price |
 | --- | ----------- |
@@ -34,7 +33,8 @@ Please have a Look of Services that I offer and feel free to contact me if you h
 | Full Leg Waxing | $45 |
 | Under Arm Waxing | $15 |
 | Full Body Massage | $60 |
-| Back and Neck and Shoulder Massage | $40 |
+| Back and Neck and Shoulder Massage | $45 |
 
 
-Thank You 
+#### Thank You,
+#### Vaishalli
